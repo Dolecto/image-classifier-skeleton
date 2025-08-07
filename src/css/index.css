@@ -1,0 +1,43 @@
+/* BASE */
+body{
+    font-family: 'Courier New', Courier, monospace;
+	background-color: #5788ad;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+h1{
+    font-size: 62pt;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+}
+
+
+
+/* LAYOUT */
+table{
+	text-align: center;
+	font-family: arial}
+td{
+	font-size: 58px;
+	color: white;
+	font-weight: bold}
+.back{
+	font-size: 20px}
+	
+a:link, a:visited{
+	color: white;
+	text-decoration: none}
+a:hover{
+	color:black;
+	background-color: c90028}
+a:active{
+	color:black}
+
+	
+iframe{
+	background-color: #ddd;
+	height: 580;
+	width: 1510}
